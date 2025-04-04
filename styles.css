@@ -1,1 +1,30 @@
+.margin-left1{
+    margin-left: 28%;
+    font-size: 34px;
+}
 
+.margin-left2{
+    margin-left: 30%;
+    font-size: 30px;
+}
+
+.post-header{
+    display: flex;
+}
+
+.post-img{
+    width: 100%;
+}
+.zice{
+    font-size: 40px;
+}
+
+.little-space{
+    margin-left: 8px;
+}
+
+.post-footer{
+  
+    text-align: left;
+    width: 503px;
+}
